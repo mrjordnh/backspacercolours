@@ -53,6 +53,7 @@ A project to log colour names
 - Green
 
 - Teal 
+- Ecru
 
 
 
